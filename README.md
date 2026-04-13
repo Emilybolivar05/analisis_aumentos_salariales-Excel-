@@ -101,7 +101,8 @@ Dado que este tipo de ajuste se realiza únicamente una vez al año, el impacto 
 
 ## Vista Previa del Dashboard
 
-![Dashboard](dashboard_preview.png)
+
+![Dashboard](dashboard_preview.PNG)
 
 ---
 
